@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import HeaderLink from './containers/HeaderLink.js';
+import ProjectContainer from './containers/ProjectContainer.js';
 import max from './resources/max.png';
 
 function App() {
@@ -19,20 +20,37 @@ function App() {
                     imgLink="https://github.com/jmhuddle4"
                     imgSrc="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"
                 />
-                <div>
-                    <img
-                        alt="profile picture"
-                        height="200px"
-                        src={max}
-                    />
-                </div>
-                <div>
-                    My name is Max <br/>
-                    I use my gifts to work hard, solve problems, and design solutions. I love computer science and the challenges and creations that come with it.
-                </div>
             </header>
 
-
+            <div className="App-body">
+                    <div>
+                        <img
+                            alt="profile"
+                            height="200px"
+                            src={max}
+                        />
+                    </div>
+                    <div className="App-body">
+                        My name is Max <br/>
+                        I use my gifts to work hard, solve problems, and design solutions. I love computer science and the challenges and creations that come with it.
+                    </div>
+                    <ProjectContainer
+                      link=""
+                      title="School Project"
+                    />
+                    <ProjectContainer
+                        link=""
+                        title="Side Project"
+                    />
+                    <ProjectContainer
+                        link=""
+                        title="House Project"
+                    />
+                    <ProjectContainer
+                        link=""
+                        title="Lexie Craig Design"
+                    />
+                </div>
         </div>
     );
 }
