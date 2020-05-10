@@ -1,22 +1,31 @@
+// react
 import React from 'react';
+import {
+    Link
+} from "react-router-dom";
+
+// css
 import '../App.css';
 
-function ProjectContainer({
-    link,
+function ProjectLink({
+    alt,
+    imgSrc,
+    path,
     title
 }) {
   return (
-          <a
+          <Link
               className="App-link"
-              href={link}
+              to={path}
           >
               <div
                   className="App-project"
               >
                   {title}
+                  <img src={imgSrc} alt={alt} />
               </div>
-          </a>
+          </Link>
   );
 }
 
-export default ProjectContainer;
+export default ProjectLink;
