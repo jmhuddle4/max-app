@@ -22,7 +22,7 @@ function ProjectLink({
                   className="App-project"
               >
                   {title}
-                  <img src={imgSrc} alt={alt} />
+                  <img src={imgSrc} alt={alt} className="project-image"/>
               </div>
           </Link>
   );
