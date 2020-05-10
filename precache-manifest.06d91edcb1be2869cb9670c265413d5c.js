@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de3ca111b64a55983f06f8b6d7edc216",
+    "revision": "453031bdd548c3390a634451675b7b80",
     "url": "/max-app/index.html"
   },
   {
-    "revision": "aa4a4d36648f4ee779c5",
-    "url": "/max-app/static/css/main.31e9fe3e.chunk.css"
+    "revision": "1e2c2a1d175a29c67875",
+    "url": "/max-app/static/css/main.6a35f19d.chunk.css"
   },
   {
-    "revision": "a8133b04594a0efae7df",
-    "url": "/max-app/static/js/2.4bee5b76.chunk.js"
+    "revision": "78b5271c7deba55fcc48",
+    "url": "/max-app/static/js/2.c55541fc.chunk.js"
   },
   {
     "revision": "6c46089e713fdf01ec7e89132bc85450",
-    "url": "/max-app/static/js/2.4bee5b76.chunk.js.LICENSE"
+    "url": "/max-app/static/js/2.c55541fc.chunk.js.LICENSE"
   },
   {
-    "revision": "aa4a4d36648f4ee779c5",
-    "url": "/max-app/static/js/main.b0e9bd32.chunk.js"
+    "revision": "1e2c2a1d175a29c67875",
+    "url": "/max-app/static/js/main.9fa95dcd.chunk.js"
   },
   {
     "revision": "d3a8085e1cbfa99dd13a",
