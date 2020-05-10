@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "453031bdd548c3390a634451675b7b80",
+    "revision": "2f4accc9ba7f9831b0d837465f6a35e5",
     "url": "/max-app/index.html"
   },
   {
-    "revision": "1e2c2a1d175a29c67875",
-    "url": "/max-app/static/css/main.6a35f19d.chunk.css"
+    "revision": "28fe31f435ab31331050",
+    "url": "/max-app/static/css/main.cee5628f.chunk.css"
   },
   {
     "revision": "78b5271c7deba55fcc48",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/max-app/static/js/2.c55541fc.chunk.js.LICENSE"
   },
   {
-    "revision": "1e2c2a1d175a29c67875",
-    "url": "/max-app/static/js/main.9fa95dcd.chunk.js"
+    "revision": "28fe31f435ab31331050",
+    "url": "/max-app/static/js/main.b31ffaa4.chunk.js"
   },
   {
     "revision": "d3a8085e1cbfa99dd13a",
