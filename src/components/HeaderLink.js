@@ -15,6 +15,7 @@ function HeaderLink({
               className="App-link"
               href={path}
               target="_blank"
+              rel="noopener noreferrer"
           >
               <img
                   src={imgSrc}

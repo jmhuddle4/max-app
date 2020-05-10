@@ -1,5 +1,9 @@
+html, body {
+  height: 100%;
+  background: linear-gradient(55deg, #1a8cff 0%, #4da6ff 51%, #80bfff 85%) fixed;
+}
+
 .App {
-  background: linear-gradient(55deg, #1a8cff 0%, #4da6ff 51%, #80bfff 85%);
   color: white;
   font-size: calc(10px + 2vmin);
   font-family: "Arial", serif;
@@ -33,16 +37,18 @@
 
 .App-title {
   font-weight: bold;
-  letter-spacing: -3px;
-  margin: 20px;
+  letter-spacing: 13px;
+  margin: 30px;
   text-transform: uppercase;
 }
 
 .App-project {
   font-weight: bold;
   height: 200px;
-  letter-spacing: -3px;
-  margin: 20px;
+  letter-spacing: -2px;
+  padding: 20px;
+  margin: auto;
+  text-align: center;
   text-transform: uppercase;
   width: 200px;
 }
@@ -55,7 +61,7 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 4px 2px;
+  margin: 24px 2px;
   cursor: pointer;
   border-radius: 16px;
   font-family: "Calibri";

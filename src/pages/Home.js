@@ -26,34 +26,27 @@ function Home() {
                 </div>
 
                 <div className="App-body">
-                    My name is Max <br/>
-                    I use my gifts to work hard, solve problems, and design solutions. I love computer science and the challenges and creations that come with it.
-                </div>
+                    <div>
+                        My name is Max <br/>
+                        I use my gifts to work hard, solve problems, and design solutions. I love computer science and the challenges and creations that come with it.
+                    </div>
 
-                <div className="App-title">
-                    Projects
-                </div>
+                    <div className="App-title">
+                        Projects
+                    </div>
 
-                <ProjectLink
-                    path="/sunrise"
-                    title="sunrise"
-                    imgSrc={sun}
-                />
-                <ProjectLink
-                    path="/lexie"
-                    title="Lexie Craig Design"
-                    imgSrc={lac}
-                />
-                <ProjectLink
-                    path="/house"
-                    title="House Project"
-                    imgSrc={lac}
-                />
-                <ProjectLink
-                    path="/school"
-                    title="School Project"
-                    imgSrc={lac}
-                />
+                    <ProjectLink
+                        path="/sunrise"
+                        title="sunrise"
+                        imgSrc={sun}
+                    />
+                    <ProjectLink
+                        path="/lexie"
+                        title="Lexie Craig Design"
+                        imgSrc={lac}
+                    />
+
+                </div>
             </div>
         </div>
     );
