@@ -1,10 +1,18 @@
 import React from 'react';
+import {
+    BrowserRouter as Router,
+
+} from "react-router-dom";
+import history from './services/history';
+import Routes from './routes';
+
 import './App.css';
-import Home from './pages/Home.js';
 
 function App() {
     return (
-        <Home />
+        <Router history={history}>
+            <Routes />
+        </Router>
     );
 }
 

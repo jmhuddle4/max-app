@@ -1,8 +1,11 @@
 import React from 'react';
-import './App.css';
+import '../App.css';
+import {
+    Link
+} from "react-router-dom";
 import HeaderLink from '../containers/HeaderLink.js';
 import ProjectContainer from '../containers/ProjectContainer.js';
-import max from '../resources/max.png';
+import ic1 from "../resources/Lexie/1_Invisible_Cities/portfolio_site_invisible_cities_1.png";
 
 function Lexie() {
     return (
@@ -27,10 +30,12 @@ function Lexie() {
                     My name is Lexie <br/>
                     I use my gifts to work hard, solve problems, and design solutions. I love computer science and the challenges and creations that come with it.
                 </div>
-                <ProjectContainer
-                    link=""
-                    title="School Project"
-                />
+                <Link to="/">
+                    <ProjectContainer
+                        link=""
+                        title="School Project"
+                    />
+                </Link>
                 <ProjectContainer
                     link=""
                     title="Side Project"
@@ -44,6 +49,8 @@ function Lexie() {
                     title="Lexie Craig Design"
                 />
             </div>
+            <img src={ic1} alt="invis"/>
+
         </div>
     );
 }

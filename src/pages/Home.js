@@ -1,16 +1,16 @@
 import React from 'react';
 import '../App.css';
+import {
+    Link
+} from "react-router-dom";
 import HeaderLink from '../containers/HeaderLink.js';
 import ProjectContainer from '../containers/ProjectContainer.js';
 import max from '../resources/max.png';
-import ic1 from '../resources/Lexie/1_Invisible_Cities/portfolio_site_invisible_cities_1.png';
 
 function Home() {
     return (
         <div className="App">
-            <head title="Max">
-                <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-            </head>
+
             <header className="App-header">
                 <HeaderLink
                     imgLink="https://www.linkedin.com/in/maxhuddleston"
@@ -38,6 +38,9 @@ function Home() {
                     My name is Max <br/>
                     I use my gifts to work hard, solve problems, and design solutions. I love computer science and the challenges and creations that come with it.
                 </div>
+                <Link to="/">
+                    I am a Link
+                </Link>
                 <ProjectContainer
                     link=""
                     title="School Project"
@@ -59,12 +62,13 @@ function Home() {
                     link=""
                     title="House Project"
                 />
+                <Link to="/lexie">
+                    I am a Link lexie
+                </Link>
                 <ProjectContainer
                     link=""
                     title="Lexie Craig Design"
                 />
-                <img src={ic1} alt="invis"/>
-
             </div>
         </div>
     );
