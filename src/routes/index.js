@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom';
 import Home from '../pages/Home';
 import Lexie from '../pages/Lexie';
 import Sunrise from '../pages/Sunrise';
+
 export default function Routes() {
     return (
         <Switch>
