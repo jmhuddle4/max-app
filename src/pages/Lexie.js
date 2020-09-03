@@ -7,6 +7,7 @@ import ProjectLink from '../components/ProjectLink.js';
 
 // assets
 import ic1 from "../resources/Lexie/1_Invisible_Cities/portfolio_site_invisible_cities_1.png";
+import bc1 from "../resources/Lexie/2_Bookcovers/1_portfolio_site_bookcovers_1.png";
 import lac from "../resources/Lexie/LAC.png";
 
 function Lexie() {
@@ -32,14 +33,14 @@ function Lexie() {
                 </div>
 
                 <ProjectLink
-                    path="/lexie/invisble-cities"
+                    path="/invisible-cities"
                     title="Invisible Cities"
                     imgSrc={ic1}
                 />
                 <ProjectLink
-                    path="/lexie/book-covers"
+                    path="/book-covers"
                     title="Book Covers"
-                    imgSrc={ic1}
+                    imgSrc={bc1}
                 />
             </div>
 
