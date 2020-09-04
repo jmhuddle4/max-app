@@ -10,7 +10,7 @@ import lac from "../resources/Lexie/LAC.png";
 import ic1 from "../resources/Lexie/1_Invisible_Cities/portfolio_site_invisible_cities_1.png";
 import bc1 from "../resources/Lexie/2_Bookcovers/1_portfolio_site_bookcovers_1.png";
 import wn1 from "../resources/Lexie/3_Wald Nektar/portfolio_site_wald_nektar_1.png";
-import ll1 from "../resources/Lexie/4_LA London/porftfolio_site_la_london_1.png";
+import ll1 from "../resources/Lexie/4_LA London/portfolio_site_la_london_1.png";
 import spy1 from "../resources/Lexie/7_Spyder/portfolio_site_spyder_1-01.png";
 import d1 from "../resources/Lexie/8_Discovery Communications/portfolio_site_discovery_1.png";
 import k1 from "../resources/Lexie/9_Kolohaus/Kolohaus_Logo-05.png";
