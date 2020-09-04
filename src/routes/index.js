@@ -11,6 +11,7 @@ import Sunrise from '../pages/Sunrise';
 // data
 import invisibleCities from '../resources/Lexie/1_Invisible_Cities/invisible-cities.json';
 import bookCovers from '../resources/Lexie/2_Bookcovers/bookcovers.json';
+import waldNektar from '../resources/Lexie/3_Wald Nektar/waldnektar.json';
 
 export default function Routes() {
     return (
@@ -28,6 +29,11 @@ export default function Routes() {
             <Route path="/book-covers"
                    render={(props) => (
                        <Project {...props} data={bookCovers} />
+                   )}
+            />
+            <Route path="/wald-nektar"
+                   render={(props) => (
+                       <Project {...props} data={waldNektar} />
                    )}
             />
 
