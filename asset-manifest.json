@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/max-app/static/css/main.cee5628f.chunk.css",
-    "main.js": "/max-app/static/js/main.f0198504.chunk.js",
-    "main.js.map": "/max-app/static/js/main.f0198504.chunk.js.map",
+    "main.js": "/max-app/static/js/main.84963024.chunk.js",
+    "main.js.map": "/max-app/static/js/main.84963024.chunk.js.map",
     "runtime-main.js": "/max-app/static/js/runtime-main.38121f03.js",
     "runtime-main.js.map": "/max-app/static/js/runtime-main.38121f03.js.map",
-    "static/js/2.9f34b478.chunk.js": "/max-app/static/js/2.9f34b478.chunk.js",
-    "static/js/2.9f34b478.chunk.js.map": "/max-app/static/js/2.9f34b478.chunk.js.map",
+    "static/js/2.9768cddb.chunk.js": "/max-app/static/js/2.9768cddb.chunk.js",
+    "static/js/2.9768cddb.chunk.js.map": "/max-app/static/js/2.9768cddb.chunk.js.map",
     "index.html": "/max-app/index.html",
-    "precache-manifest.dd4fbcbb8959322bd5023f1865bd863f.js": "/max-app/precache-manifest.dd4fbcbb8959322bd5023f1865bd863f.js",
+    "precache-manifest.0abaed5eaf4cf81ae75c9195ea30ce6f.js": "/max-app/precache-manifest.0abaed5eaf4cf81ae75c9195ea30ce6f.js",
     "service-worker.js": "/max-app/service-worker.js",
     "static/css/main.cee5628f.chunk.css.map": "/max-app/static/css/main.cee5628f.chunk.css.map",
-    "static/js/2.9f34b478.chunk.js.LICENSE": "/max-app/static/js/2.9f34b478.chunk.js.LICENSE",
+    "static/js/2.9768cddb.chunk.js.LICENSE": "/max-app/static/js/2.9768cddb.chunk.js.LICENSE",
     "static/media/1_portfolio_site_bookcovers_1.png": "/max-app/static/media/1_portfolio_site_bookcovers_1.7cdf3e20.png",
     "static/media/Kolohaus_Logo-05.png": "/max-app/static/media/Kolohaus_Logo-05.334d6d6a.png",
     "static/media/max.png": "/max-app/static/media/max.0bbb0e91.png",
-    "static/media/porftfolio_site_la_london_1.png": "/max-app/static/media/porftfolio_site_la_london_1.39fe5927.png",
     "static/media/portfolio_site_bridge_1.png": "/max-app/static/media/portfolio_site_bridge_1.a6d6a176.png",
     "static/media/portfolio_site_discovery_1.png": "/max-app/static/media/portfolio_site_discovery_1.f1cbd7fd.png",
     "static/media/portfolio_site_fruity_feels_1.png": "/max-app/static/media/portfolio_site_fruity_feels_1.68d5185f.png",
     "static/media/portfolio_site_invisible_cities_1.png": "/max-app/static/media/portfolio_site_invisible_cities_1.be99b0ad.png",
+    "static/media/portfolio_site_la_london_1.png": "/max-app/static/media/portfolio_site_la_london_1.39fe5927.png",
     "static/media/portfolio_site_optifree_1.png": "/max-app/static/media/portfolio_site_optifree_1.0f53f69a.png",
     "static/media/portfolio_site_proteggere_venice_1-15.png": "/max-app/static/media/portfolio_site_proteggere_venice_1-15.889ce9c8.png",
     "static/media/portfolio_site_sagely_app_1_Logo.png": "/max-app/static/media/portfolio_site_sagely_app_1_Logo.11febd32.png",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.38121f03.js",
-    "static/js/2.9f34b478.chunk.js",
+    "static/js/2.9768cddb.chunk.js",
     "static/css/main.cee5628f.chunk.css",
-    "static/js/main.f0198504.chunk.js"
+    "static/js/main.84963024.chunk.js"
   ]
 }
