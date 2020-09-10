@@ -1,8 +1,14 @@
 {
-  "title": "Venice",
+  "title": "Proteggere Venice",
   "images": [
     {
-      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/"
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/10_Proteggere%20Venice/portfolio_site_proteggere_venice_1-15.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/10_Proteggere%20Venice/portfolio_site_venice_banner.jpg"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/10_Proteggere%20Venice/portfolio_site_venice_branding.png"
     }
   ]
 }

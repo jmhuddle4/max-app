@@ -2,7 +2,16 @@
   "title": "Kolohaus",
   "images": [
     {
-      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/"
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/9_Kolohaus/Kolohaus_Logo-05.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/9_Kolohaus/portfolio_site_kolohaus_1.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/9_Kolohaus/portfolio_site_kolohaus_2.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/9_Kolohaus/portfolio_site_kolohaus_type-01.png"
     }
   ]
 }

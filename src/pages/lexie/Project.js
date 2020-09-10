@@ -14,7 +14,11 @@ const Project = (props) => {
 
     const renderImages = props.data.images.map((image) => {
         return (
-            <img alt={altText} src={image.src} />
+            <img
+                alt={altText}
+                className="App-image"
+                src={image.src}
+            />
         )
     });
 

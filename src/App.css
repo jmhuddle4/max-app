@@ -21,6 +21,10 @@ html, body {
   justify-content: center;
 }
 
+.App-image {
+  width: 500px;
+}
+
 .App-link {
   text-decoration: none;
   color: white;

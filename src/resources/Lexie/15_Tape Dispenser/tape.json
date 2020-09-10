@@ -2,7 +2,13 @@
   "title": "Tape Dispenser",
   "images": [
     {
-      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/"
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/15_Tape%20Dispenser/portfolio_site_tape_dispenser_1.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/15_Tape%20Dispenser/portfolio_site_tape_dispenser_2.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jmhuddle4/max-app/master/src/resources/Lexie/15_Tape%20Dispenser/portfolio_site_tape_dispenser_3.png"
     }
   ]
 }
