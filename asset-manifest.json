@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/max-app/static/css/main.cee5628f.chunk.css",
-    "main.js": "/max-app/static/js/main.84963024.chunk.js",
-    "main.js.map": "/max-app/static/js/main.84963024.chunk.js.map",
+    "main.css": "/max-app/static/css/main.616f8440.chunk.css",
+    "main.js": "/max-app/static/js/main.41e984e8.chunk.js",
+    "main.js.map": "/max-app/static/js/main.41e984e8.chunk.js.map",
     "runtime-main.js": "/max-app/static/js/runtime-main.38121f03.js",
     "runtime-main.js.map": "/max-app/static/js/runtime-main.38121f03.js.map",
     "static/js/2.9768cddb.chunk.js": "/max-app/static/js/2.9768cddb.chunk.js",
     "static/js/2.9768cddb.chunk.js.map": "/max-app/static/js/2.9768cddb.chunk.js.map",
     "index.html": "/max-app/index.html",
-    "precache-manifest.0abaed5eaf4cf81ae75c9195ea30ce6f.js": "/max-app/precache-manifest.0abaed5eaf4cf81ae75c9195ea30ce6f.js",
+    "precache-manifest.764b337f4952c8020b8b6d7b5c5830c3.js": "/max-app/precache-manifest.764b337f4952c8020b8b6d7b5c5830c3.js",
     "service-worker.js": "/max-app/service-worker.js",
-    "static/css/main.cee5628f.chunk.css.map": "/max-app/static/css/main.cee5628f.chunk.css.map",
+    "static/css/main.616f8440.chunk.css.map": "/max-app/static/css/main.616f8440.chunk.css.map",
     "static/js/2.9768cddb.chunk.js.LICENSE": "/max-app/static/js/2.9768cddb.chunk.js.LICENSE",
     "static/media/1_portfolio_site_bookcovers_1.png": "/max-app/static/media/1_portfolio_site_bookcovers_1.7cdf3e20.png",
     "static/media/Kolohaus_Logo-05.png": "/max-app/static/media/Kolohaus_Logo-05.334d6d6a.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.38121f03.js",
     "static/js/2.9768cddb.chunk.js",
-    "static/css/main.cee5628f.chunk.css",
-    "static/js/main.84963024.chunk.js"
+    "static/css/main.616f8440.chunk.css",
+    "static/js/main.41e984e8.chunk.js"
   ]
 }
