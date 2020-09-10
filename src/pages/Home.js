@@ -44,6 +44,11 @@ function Home() {
                     title="Lexie Craig Design"
                     imgSrc={lac}
                 />
+                <ProjectLink
+                    href="https://ekimbreads.com/"
+                    title="Ekim Breads"
+                    imgSrc="https://img1.wsimg.com/isteam/ip/9aed5fe1-f7f8-4134-86df-951c62c9a169/Color%20PNG.png/:/rs=w:1023,cg:true,m/rs=h:600px/qt=q:95"
+                />
 
                 </div>
         </div>
