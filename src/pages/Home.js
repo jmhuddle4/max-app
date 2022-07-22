@@ -27,7 +27,8 @@ function Home() {
 
                 <div>
                     My name is Max <br/>
-                    I use my gifts to work hard, solve problems, and design solutions. I love computer science and the challenges and creations that come with it.
+                    I use my gifts to work hard, solve problems, and design solutions. <br/> 
+                    I love computer science and the challenges and creations that come with it.
                 </div>
 
                 <div className="App-title">
